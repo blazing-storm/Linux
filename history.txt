@@ -1,0 +1,1000 @@
+    3  ls
+    4  cd C
+    5  cd Algorithms/
+    6  cd Week5
+    7  ls
+    8  vi Primitive_Calculator.c
+    9  exit
+   10  ls
+   11  ls -lt
+   12  ls -Rt
+   13  ls
+   14  cat f2
+   15  cat f1
+   16  cd Test
+   17  ls
+   18  vi f1
+   19  vi f2
+   20  diff f1 f2
+   21  comm f1 f2
+   22  cmp f1 f2
+   23  cmp -l f1 f2
+   24  ls
+   25  cd C
+   26  ls
+   27  cd Alq
+   28  cd Algorithms/
+   29  ls
+   30  java
+   31  man java
+   32  java info
+   33  info java
+   34  ls
+   35  cd C
+   36  ls
+   37  cd
+   38  mkdir Java
+   39  ls
+   40  cd Java
+   41  ls
+   42  cd ..
+   43  cd C
+   44  ls
+   45  cd Stack/
+   46  ls
+   47  vi Balanced_Brackets.c
+   48  exit
+   49  cd GeeksforGeeks/
+   50  ls
+   51  cd Linked_List/
+   52  ls
+   53  vi basic_traversal.c
+   54  vi basicInsertion.c
+   55  ls
+   56  python
+   57  ls
+   58  mkdir Python
+   59  ls
+   60  mkdir Projects
+   61  ls
+   62  java
+   63  java --version
+   64  java -version
+   65  ls
+   66  cd C
+   67  ls
+   68  cd Linked_List/
+   69  ls
+   70  ls -t
+   71  ./basicTraversal
+   72  ls
+   73  mkdir PuneetCS201
+   74  ls
+   75  cd PuneetCS201/
+   76  ls
+   77  cd Assignment1
+   78  ls
+   79  mv L01a_Sample_Input_Output_files/ IOFiles
+   80  ls
+   81  cd IOFiles/
+   82  ls
+   83  cd ..
+   84  ls
+   85  vi Basic_LL.c
+   86  cd
+   87  ls
+   88  cd C
+   89  ls
+   90  cd Linked_List/
+   91  ls
+   92  vi basicInsertion.c
+   93  vi Basic_LL.c
+   94  cd C
+   95  cd Linked_List/
+   96  ls
+   97  cd basicInsertion.c
+   98  vi basicInsertion.c
+   99  ls
+  100  vi basic_traversal.c
+  101  vi Del_Entire_List.c
+  102  vi basicInsertion.c
+  103  vi Del_Node.c
+  104  cd PuneetCS201/
+  105  ls
+  106  cd Assignment1/
+  107  ls
+  108  vi Basic_LL.c
+  109  ls
+  110  history
+  111  ls
+  112  gcc -g -O0 -o Basic_LL Basic_LL.c
+  113  vi Basic_LL.c
+  114  gcc -g -O0 -o Basic_LL Basic_LL.c
+  115  vi Basic_LL.c
+  116  gcc -g -O0 -o Basic_LL Basic_LL.c
+  117  ls
+  118  ./Basic_LL
+  119  vi Basic_LL.c
+  120  gcc -g -O0 -o Basic_LL Basic_LL.c
+  121  ls
+  122  cd IOFiles
+  123  ls
+  124  rename -n -v 's/^(.{5})//' *
+  125  ls
+  126  rename 's/^(.{5})//' *
+  127  ls
+  128  rename -n -v 's/.{5}(.*)/$1/' *
+  129  rename 's/.{5}(.*)/$1/' *
+  130  ls
+  131  for f in *; do mv "$f" "${f:5}"; done
+  132  ls
+  133  cat input1
+  134  cat output1
+  135  ls
+  136  cd ..
+  137  ls
+  138  ./Basic_LL < IOFiles/input1 > IOFiles/myoutput1
+  139  ./Basic_LL < IOFiles/input2 > IOFiles/myoutput2
+  140  ./Basic_LL < IOFiles/input3 > IOFiles/myoutput3
+  141  ./Basic_LL < IOFiles/input4 > IOFiles/myoutput4
+  142  ls
+  143  cd IOFiles/
+  144  ls
+  145  diff output1 myoutput1
+  146  diff output2 myoutput2
+  147  diff output3 myoutput3
+  148  diff output4 myoutput4
+  149  cat output3
+  150  cd ..
+  151  vi Basic_LL.c
+  152  gcc -g -O0 -o Basic_LL Basic_LL.c
+  153  ./Basic_LL < IOFiles/input1 > IOFiles/myoutput1
+  154  ./Basic_LL < IOFiles/input2 > IOFiles/myoutput2
+  155  ./Basic_LL < IOFiles/input3 > IOFiles/myoutput3
+  156  ./Basic_LL < IOFiles/input4 > IOFiles/myoutput4
+  157  cd IOFiles/
+  158  diff output1 myoutput1
+  159  diff output2 myoutput2
+  160  diff output3 myoutput3
+  161  cd ..
+  162  vi Basic_LL.c
+  163  gcc -g -O0 -o Basic_LL Basic_LL.c
+  164  ./Basic_LL < IOFiles/input1 > IOFiles/myoutput1
+  165  ./Basic_LL < IOFiles/input2 > IOFiles/myoutput2
+  166  ./Basic_LL < IOFiles/input3 > IOFiles/myoutput3
+  167  ./Basic_LL < IOFiles/input4 > IOFiles/myoutput4
+  168  cd IOFiles/
+  169  diff output1 myoutput1
+  170  diff output2 myoutput2
+  171  diff output3 myoutput3
+  172  diff output4 myoutput4
+  173  ls
+  174  cd PuneetCS201/
+  175  cd Assignment1/
+  176  ls
+  177  vi Polynomials.c
+  178  gcc -g -O0 -o Polynomials Polynomials.c
+  179  ./Polynomials
+  180  vi Polynomials.c
+  181  gcc -g -O0 -o Polynomials Polynomials.c
+  182  ./Polynomials
+  183  vi Polynomials.c
+  184  gcc -g -O0 -o Polynomials Polynomials.c
+  185  ./Polynomials
+  186  vi Polynomials.c
+  187  gcc -g -O0 -o Polynomials Polynomials.c
+  188  ./Polynomials
+  189  vi Polynomials.c
+  190  gcc -g -O0 -o Polynomials Polynomials.c
+  191  ./Polynomials
+  192  vi Polynomials.c
+  193  gcc -g -O0 -o Polynomials Polynomials.c
+  194  ./Polynomials
+  195  vi Polynomials.c
+  196  gcc -g -O0 -o Polynomials Polynomials.c
+  197  ./Polynomials
+  198  ls
+  199  mkdir IOFiles2
+  200  cd IOFiles2
+  201  ls
+  202  vi input1
+  203  vi input2
+  204  ls
+  205  vi input2
+  206  cat input1
+  207  cat input2
+  208  cd ..
+  209  ./Polynomials > IOFiles2/input1
+  210  cd IOFiles2
+  211  cat input1
+  212  cat input2
+  213  vi input1
+  214  cd ..
+  215  ./Polynomials < IOFiles2/input1
+  216  vi Polynomials.c
+  217  gcc -g -O0 -o Polynomials Polynomials.c
+  218  vi Polynomials.c
+  219  gcc -g -O0 -o Polynomials Polynomials.c
+  220  vi Polynomials.c
+  221  gcc -g -O0 -lm -o Polynomials Polynomials.c
+  222  ./Polynomials < IOFiles2/input1
+  223  vi Polynomials.c
+  224  gcc -g -O0 -lm -o Polynomials Polynomials.c
+  225  ./Polynomials < IOFiles2/input1
+  226  vi Polynomials.c
+  227  gcc -g -O0 -lm -o Polynomials Polynomials.c
+  228  ./Polynomials < IOFiles2/input1
+  229  vi Polynomials.c
+  230  gcc -g -O0 -lm -o Polynomials Polynomials.c
+  231  ./Polynomials < IOFiles2/input1
+  232  ./Polynomials < IOFiles2/input2
+  233  ./Polynomials
+  234  vi Polynomials.c
+  235  gcc -g -O0 -lm -o Polynomials Polynomials.c
+  236  ./Polynomials < IOFiles2/input1
+  237  ./Polynomials < IOFiles2/input2
+  238  vi Polynomials.c
+  239  gcc -g -O0 -lm -o Polynomials Polynomials.c
+  240  ./Polynomials < IOFiles2/input2
+  241  ./Polynomials
+  242  vi Polynomials.c
+  243  gcc -g -O0 -lm -o Polynomials Polynomials.c
+  244  ./Polynomials < IOFiles2/input2
+  245  ./Polynomials
+  246  ./Polynomials < IOFiles2/input2
+  247  ./Polynomials
+  248  cd
+  249  ls
+  250  cd C
+  251  cd ..
+  252  cd GeeksforGeeks/
+  253  ls
+  254  cd Linked_List/
+  255  ls
+  256  cd ..
+  257  cd C
+  258  ls
+  259  cd Linked_List/
+  260  ls
+  261  vi Polynomial_Multiplication.c
+  262  cd PuneetCS201/
+  263  ls
+  264  cd Assignment1/
+  265  ls
+  266  cd IOFiles2
+  267  ls
+  268  rename -n 's/(.*).{4}/$1/' *
+  269  ls
+  270  history
+  271  rename -n 's/.{4}/$//' *
+  272  ls
+  273  rename 's/.{4}/$//' *
+  274  ls
+  275  for i in *; do echo mv -i "$i" "$i%????"; done
+  276  for i in *; do echo mv -i "$i" "$i/????"; done
+  277  for i in ????*; do echo mv -i "$i" "$i/????"; done
+  278  ls
+  279  for i in *; do echo mv -i "$i" "${i:0: -4}"; done
+  280  for i in *; do mv -i "$i" "${i:0: -4}"; done
+  281  ls
+  282  cd ..
+  283  ls
+  284  cd IOFiles3
+  285  ls
+  286  for i in *; do mv -i "$i" "${i:0: -4}"; done
+  287  ls
+  288  cd ..
+  289  ls
+  290  history
+  291  ls
+  292  cd IOFiles2
+  293  ls
+  294  cd ..
+  295  ./Polynomials < IOFiles2/Input1 > IOFiles2/MyOutput
+  296  ./Polynomials < IOFiles2/Input2 > IOFiles2/MyOutput2
+  297  ./Polynomials < IOFiles2/Input3 > IOFiles2/MyOutput3
+  298  ./Polynomials < IOFiles2/Input4 > IOFiles2/MyOutput4
+  299  ls
+  300  cd IOFiles2
+  301  ls
+  302  cd ..
+  303  ./Polynomials < IOFiles2/Input5 > IOFiles2/MyOutput5
+  304  cd IOFiles2
+  305  ls
+  306  diff Output1 MyOutput1
+  307  cat Output1
+  308  cat MyOutput1
+  309  diff Output2 MyOutput2
+  310  diff Output3 MyOutput3
+  311  diff Output4 MyOutput4
+  312  diff Output5 MyOutput5
+  313  cat Output5
+  314  cat MyOutput5
+  315  cd ..
+  316  vi Polynomials.c
+  317  gcc -g -O0 -lm -o Polynomials Polynomials.c
+  318  ./Polynomials < IOFiles2/Input5 > IOFiles2/MyOutput5
+  319  ./Polynomials < IOFiles2/Input1 > IOFiles2/MyOutput1
+  320  ./Polynomials < IOFiles2/Input2 > IOFiles2/MyOutput2
+  321  ./Polynomials < IOFiles2/Input3 > IOFiles2/MyOutput3
+  322  ./Polynomials < IOFiles2/Input4 > IOFiles2/MyOutput4
+  323  ./Polynomials < IOFiles2/Input5 > IOFiles2/MyOutput5
+  324  cd IOFiles2
+  325  ls
+  326  diff Output1 MyOutput1
+  327  diff Output2 MyOutput2
+  328  cat Output2
+  329  cat MyOutput2
+  330  cd ..
+  331  vi Polynomials.c
+  332  gcc -g -O0 -lm -o Polynomials Polynomials.c
+  333  ./Polynomials < IOFiles2/Input1 > IOFiles2/MyOutput1
+  334  ./Polynomials < IOFiles2/Input2 > IOFiles2/MyOutput2
+  335  ./Polynomials < IOFiles2/Input3 > IOFiles2/MyOutput3
+  336  ./Polynomials < IOFiles2/Input4 > IOFiles2/MyOutput5
+  337  ./Polynomials < IOFiles2/Input4 > IOFiles2/MyOutput4
+  338  ./Polynomials < IOFiles2/Input5 > IOFiles2/MyOutput5
+  339  cd IOFiles
+  340  cd ..
+  341  cd IOFiles2
+  342  diff Output1 MyOutput1
+  343  diff Output2 MyOutput2
+  344  diff Output3 MyOutput3
+  345  diff Output4 MyOutput4
+  346  diff Output5 MyOutput5
+  347  cat Output4
+  348  cat MyOutput4
+  349  cat Output5
+  350  cat MyOutput5
+  351  cd ..
+  352  vi Polynomials.c
+  353  cat Basic_LL.c
+  354  cd Pu
+  355  cd PuneetCS201/
+  356  ls
+  357  cd Assignment1
+  358  ls
+  359  cat > #Function.c
+  360  cat > Function.c
+  361  ls
+  362  rm Function.c 
+  363  ls
+  364  vi FunctionLL.c
+  365  cd ..
+  366  cd
+  367  cd C
+  368  cd Linked_List/
+  369  ls
+  370  cd
+  371  cd GeeksforGeeks/
+  372  cd Linked_List/
+  373  ls
+  374  cat Reverse_List.cpp
+  375  ls
+  376  cd pun
+  377  cd PuneetCS201/
+  378  ls
+  379  cd Assignment1/
+  380  ls
+  381  vi FunctionLL.c
+  382  gcc -g -O0 -o FunctionLL FunctionLL.c
+  383  ./FunctionLL < IOFiles3/Output1 > IOFiles3/MyOutput1
+  384  ./FunctionLL < IOFiles3/Output2 > IOFiles3/MyOutput2
+  385  ./FunctionLL < IOFiles3/Output3 > IOFiles3/MyOutput3
+  386  ./FunctionLL < IOFiles3/Output4 > IOFiles3/MyOutput4
+  387  ./FunctionLL < IOFiles3/Output3 > IOFiles3/MyOutput3
+  388  ./FunctionLL
+  389  ./FunctionLL < IOFiles3/Input0 > IOFiles3/MyOutput0
+  390  ./FunctionLL < IOFiles3/Input1 > IOFiles3/MyOutput1
+  391  ./FunctionLL < IOFiles3/Input2 > IOFiles3/MyOutput2
+  392  ./FunctionLL < IOFiles3/Input3 > IOFiles3/MyOutput3
+  393  ./FunctionLL < IOFiles3/Input4 > IOFiles3/MyOutput4
+  394  cd IOFiles3
+  395  ls
+  396  diff Output0 MyOutput0
+  397  ls
+  398  cat Input3
+  399  cat Output3
+  400  ls
+  401  cat MyOutput3
+  402  diff Output0 MyOutput0
+  403  diff Output1 MyOutput1
+  404  ls
+  405  diff Output0 MyOutput0
+  406  diff Output1 MyOutput1
+  407  diff Output2 MyOutput2
+  408  diff Output3 MyOutput3
+  409  diff Output4 MyOutput4
+  410  cat Output2
+  411  cat MyOutput2
+  412  cd]
+  413  cd
+  414  ls
+  415  cd C
+  416  ls
+  417  cd Stack/
+  418  ls
+  419  vi Implementation_LinkedList.c
+  420  cd ..
+  421  cd Queue/
+  422  ls
+  423  cd Alg
+  424  cd ..
+  425  cd Algorithms/
+  426  ls
+  427  cd Week5
+  428  ls
+  429  cd
+  430  ls
+  431  cd GeeksforGeeks/
+  432  cd Queue/
+  433  ls
+  434  cat Implement_Queue_BasicArray.cpp 
+  435  ls
+  436  cd PuneetCS201/
+  437  ls
+  438  mkdir Assignment2
+  439  ls
+  440  cd Assignment2
+  441  ls
+  442  vi SQIEP.c
+  443  gcc -g -O0 -o SQIEP SQIEP.c
+  444  vi SQIEP.c
+  445  gcc -g -O0 -o SQIEP SQIEP.c
+  446  vi SQIEP.c
+  447  gcc -g -O0 -o SQIEP SQIEP.c
+  448  ./SQIEP
+  449  vi SQIEP.c
+  450  ./SQIEP
+  451  vi SQIEP.c
+  452  gdb SQIEP
+  453  vi SQIEP.c
+  454  gcc -g -O0 -o SQIEP SQIEP.c
+  455  vi SQIEP.c
+  456  gcc -g -O0 -o SQIEP SQIEP.c
+  457  ./SQIEP
+  458  vi SQIEP.c
+  459  gcc -g -O0 -o SQIEP SQIEP.c
+  460  ./SQIEP
+  461  gdb SQIEP 
+  462  vi SQIEP.c
+  463  gcc -g -O0 -o SQIEP SQIEP.c
+  464  ./SQIEP
+  465  vi SQIEP.c
+  466  gcc -g -O0 -o SQIEP SQIEP.c
+  467  ./SQIEP
+  468  vi SQIEP.c
+  469  gcc -g -O0 -o SQIEP SQIEP.c
+  470  vi SQIEP.c
+  471  gcc -g -O0 -o SQIEP SQIEP.c
+  472  ./SQIEP
+  473  vi SQIEP.c
+  474  gcc -g -O0 -o SQIEP SQIEP.c
+  475  vi SQIEP.c
+  476  gcc -g -O0 -o SQIEP SQIEP.c
+  477  vi SQIEP.c
+  478  gcc -g -O0 -o SQIEP SQIEP.c
+  479  ./SQIEP
+  480  vi SQIEP.c
+  481  gcc -g -O0 -o SQIEP SQIEP.c
+  482  ./SQIEP
+  483  vi SQIEP.c
+  484  ls
+  485  cd Pu
+  486  cd PuneetCS201/
+  487  cd Assignment2
+  488  ls
+  489  vi SQIEP.c
+  490  gcc -g -O0 -o SQIEP SQIEP.c
+  491  ./SQIEP
+  492  vi SQIEP.c
+  493  gcc -g -O0 -o SQIEP SQIEP.c
+  494  ./SQIEP
+  495  vi SQIEP.c
+  496  gcc -g -O0 -o SQIEP SQIEP.c
+  497  ./SQIEP
+  498  vi SQIEP.c
+  499  gcc -g -O0 -o SQIEP SQIEP.c
+  500  vi input1
+  501  ./SQIEP < input1
+  502  vi SQIEP.c
+  503  cd
+  504  cd C
+  505  cd Stack/
+  506  ls
+  507  cat Infix_to_Postfix.c
+  508  ls
+  509  cat Infix_to_Postfix_GfG.c
+  510  cd PuneetCS201/
+  511  cd Assignment2
+  512  ls
+  513  vi SQIEP.c
+  514  cd C
+  515  cd Stack/
+  516  ls
+  517  vi Infix_to_Postfix.c
+  518  vi Infix_to_Postfix_GfG.c
+  519  exit
+  520  cd
+  521  cd PuneetCS201/
+  522  cd Assignment2
+  523  ls
+  524  vi Test.c
+  525  gcc -g -O0 -o Test Test.c
+  526  ./Test
+  527  vi Test.c
+  528  gcc -g -O0 -o Test Test.c
+  529  ./Test
+  530  vi Test.c
+  531  gcc -g -O0 -o Test Test.c
+  532  ./Test
+  533  vi Test.c
+  534  gcc -g -O0 -o Test Test.c
+  535  ./Test
+  536  vi Test.c
+  537  gcc -g -O0 -o Test Test.c
+  538  ./Test
+  539  vi Test.c
+  540  gcc -g -O0 -o Test Test.c
+  541  ./Test
+  542  vi Test.c
+  543  gcc -g -O0 -o Test Test.c
+  544  vi Test.c
+  545  gcc -g -O0 -o Test Test.c
+  546  vi Test.c
+  547  gcc -g -O0 -o Test Test.c
+  548  ./Test
+  549  vi Test.c
+  550  gcc -g -O0 -o Test Test.c
+  551  ./Test
+  552  vi Test.c
+  553  gcc -g -O0 -o Test Test.c
+  554  ./Test
+  555  vi Test.c
+  556  gcc -g -O0 -o Test Test.c
+  557  ./Test
+  558  vi Test.c
+  559  gdb Test
+  560  vi Test.c
+  561  gcc -g -O0 -o Test Test.c
+  562  ./Test
+  563  ls
+  564  gdb Test
+  565  cd
+  566  dnf debuginfo-install glibc-2.31-2.fc32.x86_64
+  567  sudo dnf debuginfo-install glibc-2.31-2.fc32.x86_64
+  568  cd PuneetCS201/
+  569  cd Assignment2
+  570  ls
+  571  vi Test2.c
+  572  gcc -g -O0 -o Test2 Test2.c
+  573  vi Test2.c
+  574  gcc -g -O0 -o Test2 Test2.c
+  575  vi Test2.c
+  576  gcc -g -O0 -o Test2 Test2.c
+  577  ./Test2
+  578  vi Test.c
+  579  gcc -g -O0 -o Test Test.c
+  580  ./Test
+  581  gcc -g -O0 -o Test Test.c
+  582  vi Test.c
+  583  gcc -g -O0 -o Test Test.c
+  584  ./Test
+  585  vi Test.c
+  586  gcc -g -O0 -o Test Test.c
+  587  ./Test
+  588  vi Test.c
+  589  ./Test
+  590  vi Test.c
+  591  gcc -g -O0 -o Test Test.c
+  592  ./Test
+  593  vi Test3.c
+  594  gcc -g -O0 -o Test3 Test3.c
+  595  ls
+  596  ./Test3
+  597  vi Test3.c
+  598  gcc -g -O0 -o Test3 Test3.c
+  599  ./Test3
+  600  vi Test3.c
+  601  gcc -g -O0 -o Test3 Test3.c
+  602  ./Test3
+  603  vi Test3.c
+  604  gcc -g -O0 -o Test3 Test3.c
+  605  vi Test3.c
+  606  gcc -g -O0 -o Test3 Test3.c
+  607  vi Test3.c
+  608  gcc -g -O0 -o Test3 Test3.c
+  609  vi Test3.c
+  610  gcc -g -O0 -o Test3 Test3.c
+  611  vi Test3.c
+  612  gcc -g -O0 -o Test3 Test3.c
+  613  vi Test3.c
+  614  gcc -g -O0 -o Test3 Test3.c
+  615  vi Test3.c
+  616  gcc -g -O0 -o Test3 Test3.c
+  617  ./Test3
+  618  vi Test3.c
+  619  gcc -g -O0 -o Test3 Test3.c
+  620  ./Test3
+  621  vi Test3.c
+  622  gcc -g -O0 -o Test3 Test3.c
+  623  ./Test3
+  624  vi Test3.c
+  625  gcc -g -O0 -o Test3 Test3.c
+  626  ./Test3
+  627  vi Test3.c
+  628  gcc -g -O0 -o Test3 Test3.c
+  629  ./Test3
+  630  vi Test3.c
+  631  gcc -g -O0 -o Test3 Test3.c
+  632  ./Test3
+  633  vi Test3.c
+  634  gcc -g -O0 -o Test3 Test3.c
+  635  ./Test3
+  636  ls
+  637  vi SQIEP.c
+  638  gcc -g -O0 -o SQIEP SQIEP.c
+  639  vi SQIEP.c
+  640  gcc -g -O0 -o SQIEP SQIEP.c
+  641  ./SQIEP
+  642  vi SQIEP.c
+  643  gcc -g -O0 -o SQIEP SQIEP.c
+  644  ./SQIEP
+  645  vi SQIEP.c
+  646  gcc -g -O0 -o SQIEP SQIEP.c
+  647  ./SQIEP
+  648  vi SQIEP.c
+  649  gcc -g -O0 -o SQIEP SQIEP.c
+  650  ./SQIEP
+  651  vi SQIEP.c
+  652  gcc -g -O0 -o SQIEP SQIEP.c
+  653  vi SQIEP.c
+  654  gcc -g -O0 -o SQIEP SQIEP.c
+  655  ./SQIEP
+  656  vi SQIEP.c
+  657  cd C
+  658  cd Stack/
+  659  ls
+  660  vi Infix_to_Postfix_GfG.c
+  661  vi Infix_to_Postfix.c
+  662  vi Infix_to_Postfix_GfG.c
+  663  cd
+  664  ls
+  665  cd C
+  666  ls
+  667  cd Array
+  668  ls
+  669  vi Array_Struct.c
+  670  vi Matrix_Struct.c
+  671  ls
+  672  ls -l
+  673  ls -t
+  674  cd
+  675  cd C
+  676  cd Stack/
+  677  ls
+  678  vi Infix_to_Postfix_GfG.c 
+  679  ls
+  680  cat Test3.c
+  681  cat Test.c
+  682  cd ..
+  683  cd Array/
+  684  ls
+  685  vi Matrix_Struct.c 
+  686  cd
+  687  cd GeeksforGeeks/
+  688  cd St
+  689  cd Stack/
+  690  ls
+  691  cd C
+  692  cd Stack/
+  693  ls
+  694  vi Infix_to_Postfix_GfG.c 
+  695  cd
+  696  cd PuneetCS201/
+  697  cd Assignment
+  698  cd Assignment2
+  699  ls
+  700  vi SQIEP.c
+  701  gcc -g -O0 -o SQIEP SQIEP.c
+  702  vi SQIEP.c
+  703  gcc -g -O0 -o SQIEP SQIEP.c
+  704  ./SQIEP
+  705  vi SQIEP.c
+  706  gcc -g -O0 -o SQIEP SQIEP.c
+  707  ./SQIEP
+  708  vi SQIEP.c
+  709  gcc -g -O0 -o SQIEP SQIEP.c
+  710  ./SQIEP
+  711  vi SQIEP.c
+  712  gcc -g -O0 -o SQIEP SQIEP.c
+  713  vi SQIEP.c
+  714  gcc -g -O0 -o SQIEP SQIEP.c
+  715  vi SQIEP.c
+  716  gcc -g -O0 -o SQIEP SQIEP.c
+  717  ./SQIEP
+  718  gdb SQIEP
+  719  vi SQIEP.c
+  720  gcc -g -O0 -o SQIEP SQIEP.c
+  721  ./SQIEP
+  722  gdb SQIEP 
+  723  vi SQIEP.c
+  724  gcc -g -O0 -o SQIEP SQIEP.c
+  725  ./SQIEP
+  726  vi SQIEP.c
+  727  gcc -g -O0 -o SQIEP SQIEP.c
+  728  ./SQIEP
+  729  vi SQIEP.c
+  730  gcc -g -O0 -o SQIEP SQIEP.c
+  731  ./SQIEP
+  732  vi SQIEP.c
+  733  gcc -g -O0 -o SQIEP SQIEP.c
+  734  ./SQIEP
+  735  vi SQIEP.c
+  736  gcc -g -O0 -o SQIEP SQIEP.c
+  737  vi SQIEP.c
+  738  gcc -g -O0 -o SQIEP SQIEP.c
+  739  ./SQIEP
+  740  vi SQIEP.c
+  741  ls
+  742  vi SQIEP.c
+  743  cd PuneetCS201/
+  744  cd Assignment2
+  745  ls
+  746  vi kth_stack_permutation.c
+  747  history
+  748  sudo dnf debuginfo-install glibc-2.31-2.fc32.x86_64
+  749  vi kth_stack_permutation.c
+  750  ls
+  751  mv kth_stack_permutation.c kth_permutation.c
+  752  ls
+  753  vi kth_permutation.c
+  754  cd
+  755  cd C
+  756  cd Queue/
+  757  ls
+  758  vi SQIEP.c
+  759  cd PuneetCS201/
+  760  cd Assignment2
+  761  ls
+  762  vi kth_permutation.c
+  763  gcc -g -O0 -o kth_permutation kth_permutation.c
+  764  vi kth_permutation.c
+  765  gcc -g -O0 -o kth_permutation kth_permutation.c
+  766  vi kth_permutation.c
+  767  gcc -g -O0 -o kth_permutation kth_permutation.c
+  768  ./kth_permutation
+  769  vi kth_permutation.c
+  770  gcc -g -O0 -o kth_permutation kth_permutation.c
+  771  ./kth_permutation
+  772  vi kth_permutation.c
+  773  gcc -g -O0 -o kth_permutation kth_permutation.c
+  774  ./kth_permutation
+  775  vi kth_permutation.c
+  776  gcc -g -O0 -o kth_permutation kth_permutation.c
+  777  ./kth_permutation
+  778  vi kth_permutation.c
+  779  gcc -g -O0 -o kth_permutation kth_permutation.c
+  780  ./kth_permutation
+  781  vi kth_permutation.c
+  782  gcc -g -O0 -o kth_permutation kth_permutation.c
+  783  vi kth_permutation.c
+  784  gcc -g -O0 -o kth_permutation kth_permutation.c
+  785  ./kth_permutation
+  786   vi SQIEP.c
+  787  ls
+  788  vi input1
+  789  gcc -g -O0 -o SQIEP SQIEP.c
+  790  ./SQIEP < input1
+  791  ./SQIEP
+  792  cat input1
+  793  ./SQIEP < input1
+  794  ./SQIEP
+  795   vi SQIEP.c
+  796  ./SQIEP
+  797   vi SQIEP.c
+  798  ./SQIEP
+  799   vi SQIEP.c
+  800  gdb SQIEP
+  801   vi SQIEP.c
+  802  gcc -g -O0 -o SQIEP SQIEP.c
+  803  ./SQIEP
+  804   vi SQIEP.c
+  805  gcc -g -O0 -o SQIEP SQIEP.c
+  806  ./SQIEP < input1
+  807  vi input2
+  808  ./SQIEP < input2
+  809   vi SQIEP.c
+  810  gcc -g -O0 -o SQIEP SQIEP.c
+  811  ./SQIEP
+  812  vi input1
+  813  vi input2
+  814  ./SQIEP < input1
+  815  ./SQIEP < input2
+  816  ./SQIEP
+  817  cd PuneetCS201/
+  818  ls
+  819  cd Assignment2
+  820  ls
+  821  vi kth_permutation.c
+  822  ls
+  823  cd C
+  824  ls
+  825  mkdir Heap
+  826  cd Heap
+  827  cd ..
+  828  mv Heap Heaps
+  829  ls
+  830  cd Heaps
+  831  vi Heap_Array_Implementation.c
+  832  ls
+  833  rm Heap_Array_Implementation.c
+  834  ls
+  835  vi minHeap.c
+  836  gcc -g -O0 -o minHeap minHeap.c
+  837  vi minHeap.c
+  838  gcc -g -O0 -o minHeap minHeap.c
+  839  ./minHeap
+  840  vi minHeap.c
+  841  gcc -g -O0 -o minHeap minHeap.c
+  842  ./minHeap
+  843  vi minHeap.c
+  844  gcc -g -O0 -o minHeap minHeap.c
+  845  ./minHeap
+  846  vi minHeap.c
+  847  gcc -g -O0 -o minHeap minHeap.c
+  848  ./minHeap
+  849  vi minHeap.c
+  850  cd
+  851  cd PuneetCS201/
+  852  cd Assignment2
+  853  ls
+  854  vi SQIEP.c
+  855  cd
+  856  cd C
+  857  cd Queue
+  858  ls
+  859  cd C
+  860  cd Heaps/
+  861  ls
+  862  vi minHeap.c
+  863  gcc -g -O0 -o minHeap minHeap.c
+  864  ./minHeap
+  865  ls
+  866  vi minHeap.c
+  867  gcc -g -O0 -o minHeap minHeap.c
+  868  ls
+  869  ls -t
+  870  vi Heap_Sort.c
+  871  gcc -g -O0 -o Heap_Sort Heap_Sort.c
+  872  ./Heap_Sort
+  873  ls -t
+  874  vi minHeap_LL.c
+  875  Heap_Sort.c
+  876  vi Heap_Sort.c
+  877  gcc -g -O0 -o Heap_Sort Heap_Sort.c
+  878  ./Heap_Sort
+  879  vi Heap_Sort.c
+  880  gcc -g -O0 -o Heap_Sort Heap_Sort.c
+  881  ./Heap_Sort
+  882  vi Heap_Sort.c
+  883  gcc -g -O0 -o Heap_Sort Heap_Sort.c
+  884  ./Heap_Sort
+  885  vi Heap_Sort.c
+  886  gcc -g -O0 -o Heap_Sort Heap_Sort.c
+  887  vi Heap_Sort.c
+  888  gcc -g -O0 -o Heap_Sort Heap_Sort.c
+  889  ./Heap_Sort
+  890  ls
+  891  vi build_heap.c
+  892  gcc -g -O0 -o build_heap build_heap.c
+  893  ./build_heap
+  894  vi build_heap.c
+  895  gcc -g -O0 -o build_heap build_heap.c
+  896  ./build_heap
+  897  vi build_heap.c
+  898  ls -t
+  899  ls
+  900  ls -t
+  901  vi minHeap.c
+  902  ls
+  903  cd Test
+  904  ls
+  905  cd
+  906  ls
+  907  mkdir Linux_Practice
+  908  cd Linux_Practice/
+  909  la
+  910  ls
+  911  man -f ls
+  912  man -a ls
+  913  man man
+  914  man -k cd
+  915  man -w ls
+  916  man LS
+  917  man -I LS
+  918  help la
+  919  help ls
+  920  help cat
+  921  help -d cat
+  922  cat --help
+  923  who
+  924  who -u
+  925  who -b
+  926  who -d -H
+  927  who -I
+  928  who -l
+  929  who -1
+  930  who -q
+  931  who -r
+  932  who -a
+  933  whoami
+  934  w
+  935  uname -r
+  936  uname -a
+  937  uname -s
+  938  uname -n
+  939  uname -r
+  940  uname -v
+  941  uname -m
+  942  uname -p
+  943  uname -i
+  944  uname -o
+  945  id
+  946  id -n
+  947  uptime
+  948  uptime -p
+  949  uptime -s
+  950  free
+  951  free -h
+  952  free -ht
+  953  tty
+  954  cal
+  955  cal -3
+  956  cal -5
+  957  date
+  958  date -GMT
+  959  date -u
+  960  date --date="Feb 2 2010"
+  961  date --date="5 sec ago"
+  962  hostname
+  963  ls
+  964  sudo dnf upgrade --refresh
+  965  ls
+  966  cd C
+  967  ls
+  968  cd GeeksforGeeks/
+  969  ls
+  970  cd Array
+  971  ls
+  972  vi Kth_Smallest_Sort_Fn.cpp
+  973  cd C
+  974  ls
+  975  cd Array/
+  976  ls
+  977  cd .
+  978  cd ..
+  979  ls
+  980  cd Stack
+  981  ls
+  982  cd C
+  983  ls
+  984  uname -r
+  985  uname -a
+  986  ls
+  987  vi hello.c
+  988  ls
+  989  cd File_Handling/
+  990  ls
+  991  cd C
+  992  ls
+  993  cd C
+  994  ls
+  995  cd C
+  996  ls
+  997  cd C
+  998  ls
+  999  cd C
+ 1000  ls
+ 1001  history
+ 1002  history > history.txt
